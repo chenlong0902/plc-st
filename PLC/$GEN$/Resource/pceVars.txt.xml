@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="E:\23SHIP\CHENLONG\PLC\$GEN$\Resource\Resource.PCD">
+	<XMLVarListGenerator version="6.2.0"/>
+	<VarList>
+		<var name="CUR_TASK" path="GLOBAL_VAR" type="6" size="2" program="0" segment="10" offset="8" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MODBUSBUF" path="GLOBAL_VAR" type="22" size="64" program="0" segment="10" offset="12" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" arraytype="BYTE" dimrange="0..50" />
+		<var name="UDP_OUT00" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="76" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT01" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="77" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT00_SEND" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="78" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT01_SEND" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="79" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD00" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="80" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD01" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="81" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD02" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="82" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD03" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="83" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD04" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="84" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD05" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="85" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD06" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="86" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD07" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="87" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD10" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="88" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD11" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="89" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD12" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="90" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD13" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="91" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD14" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="92" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD15" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="93" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD16" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="94" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD17" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="95" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPQ00" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="96" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPQ01" path="GLOBAL_VAR" type="1" size="1" program="0" segment="10" offset="97" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DIANYA" path="GLOBAL_VAR" type="9" size="2" program="0" segment="10" offset="98" bit="0" scope="5" qualifier="0" ref="0" procimg="noPI" />
+		<var name="CUR_TASK" path="DIDO" type="6" size="2" program="1" segment="10" offset="8" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MODBUSBUF" path="DIDO" type="22" size="64" program="1" segment="10" offset="12" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" arraytype="BYTE" dimrange="0..50" />
+		<var name="UDP_OUT00" path="DIDO" type="1" size="1" program="1" segment="10" offset="76" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDP_OUT01" path="DIDO" type="1" size="1" program="1" segment="10" offset="77" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDP_OUT00_SEND" path="DIDO" type="1" size="1" program="1" segment="10" offset="78" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT01_SEND" path="DIDO" type="1" size="1" program="1" segment="10" offset="79" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD00" path="DIDO" type="1" size="1" program="1" segment="10" offset="80" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD01" path="DIDO" type="1" size="1" program="1" segment="10" offset="81" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD02" path="DIDO" type="1" size="1" program="1" segment="10" offset="82" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD03" path="DIDO" type="1" size="1" program="1" segment="10" offset="83" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD04" path="DIDO" type="1" size="1" program="1" segment="10" offset="84" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD05" path="DIDO" type="1" size="1" program="1" segment="10" offset="85" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD06" path="DIDO" type="1" size="1" program="1" segment="10" offset="86" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD07" path="DIDO" type="1" size="1" program="1" segment="10" offset="87" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD10" path="DIDO" type="1" size="1" program="1" segment="10" offset="88" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD11" path="DIDO" type="1" size="1" program="1" segment="10" offset="89" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD12" path="DIDO" type="1" size="1" program="1" segment="10" offset="90" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD13" path="DIDO" type="1" size="1" program="1" segment="10" offset="91" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD14" path="DIDO" type="1" size="1" program="1" segment="10" offset="92" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD15" path="DIDO" type="1" size="1" program="1" segment="10" offset="93" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD16" path="DIDO" type="1" size="1" program="1" segment="10" offset="94" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD17" path="DIDO" type="1" size="1" program="1" segment="10" offset="95" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPQ00" path="DIDO" type="1" size="1" program="1" segment="10" offset="96" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPQ01" path="DIDO" type="1" size="1" program="1" segment="10" offset="97" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DIANYA" path="DIDO" type="9" size="2" program="1" segment="10" offset="98" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DI00" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="0" scope="1" qualifier="0" ref="0" procimg="%I0.0" />
+		<var name="DI01" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="1" scope="1" qualifier="0" ref="0" procimg="%I0.1" />
+		<var name="DI02" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="2" scope="1" qualifier="0" ref="0" procimg="%I0.2" />
+		<var name="DI03" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="3" scope="1" qualifier="0" ref="0" procimg="%I0.3" />
+		<var name="DI04" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="4" scope="1" qualifier="0" ref="0" procimg="%I0.4" />
+		<var name="DI05" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="5" scope="1" qualifier="0" ref="0" procimg="%I0.5" />
+		<var name="DI06" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="6" scope="1" qualifier="0" ref="0" procimg="%I0.6" />
+		<var name="DI07" path="DIDO" type="1" size="1" program="1" segment="1" offset="8" bit="7" scope="1" qualifier="0" ref="0" procimg="%I0.7" />
+		<var name="DI10" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="0" scope="1" qualifier="0" ref="0" procimg="%I1.0" />
+		<var name="DI11" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="1" scope="1" qualifier="0" ref="0" procimg="%I1.1" />
+		<var name="DI12" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="2" scope="1" qualifier="0" ref="0" procimg="%I1.2" />
+		<var name="DI13" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="3" scope="1" qualifier="0" ref="0" procimg="%I1.3" />
+		<var name="DI14" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="4" scope="1" qualifier="0" ref="0" procimg="%I1.4" />
+		<var name="DI15" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="5" scope="1" qualifier="0" ref="0" procimg="%I1.5" />
+		<var name="DI16" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="6" scope="1" qualifier="0" ref="0" procimg="%I1.6" />
+		<var name="DI17" path="DIDO" type="1" size="1" program="1" segment="1" offset="9" bit="7" scope="1" qualifier="0" ref="0" procimg="%I1.7" />
+		<var name="DO0" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="0" scope="1" qualifier="0" ref="0" procimg="%Q0.0" />
+		<var name="DO1" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="1" scope="1" qualifier="0" ref="0" procimg="%Q0.1" />
+		<var name="DO2" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="2" scope="1" qualifier="0" ref="0" procimg="%Q0.2" />
+		<var name="DO3" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="3" scope="1" qualifier="0" ref="0" procimg="%Q0.3" />
+		<var name="DO4" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="4" scope="1" qualifier="0" ref="0" procimg="%Q0.4" />
+		<var name="DO5" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="5" scope="1" qualifier="0" ref="0" procimg="%Q0.5" />
+		<var name="DO6" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="6" scope="1" qualifier="0" ref="0" procimg="%Q0.6" />
+		<var name="DO7" path="DIDO" type="1" size="1" program="1" segment="1" offset="2056" bit="7" scope="1" qualifier="0" ref="0" procimg="%Q0.7" />
+		<var name="AI0" path="DIDO" type="9" size="2" program="1" segment="1" offset="10" bit="0" scope="1" qualifier="0" ref="0" procimg="%I2.0" />
+		<var name="AI1" path="DIDO" type="9" size="2" program="1" segment="1" offset="12" bit="0" scope="1" qualifier="0" ref="0" procimg="%I4.0" />
+		<var name="AI2" path="DIDO" type="9" size="2" program="1" segment="1" offset="14" bit="0" scope="1" qualifier="0" ref="0" procimg="%I6.0" />
+		<var name="AI3" path="DIDO" type="9" size="2" program="1" segment="1" offset="16" bit="0" scope="1" qualifier="0" ref="0" procimg="%I8.0" />
+		<var name="AO0" path="DIDO" type="6" size="2" program="1" segment="1" offset="2057" bit="0" scope="1" qualifier="0" ref="0" procimg="%Q1.0" />
+		<var name="AO1" path="DIDO" type="6" size="2" program="1" segment="1" offset="2059" bit="0" scope="1" qualifier="0" ref="0" procimg="%Q3.0" />
+		<var name="AO2" path="DIDO" type="9" size="2" program="1" segment="1" offset="2061" bit="0" scope="1" qualifier="0" ref="0" procimg="%Q5.0" />
+		<var name="AO3" path="DIDO" type="9" size="2" program="1" segment="1" offset="2063" bit="0" scope="1" qualifier="0" ref="0" procimg="%Q7.0" />
+		<var name="V1" path="DIDO" type="1" size="1" program="1" segment="13" offset="240" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="V2" path="DIDO" type="1" size="1" program="1" segment="13" offset="241" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TMP" path="DIDO" type="1" size="1" program="1" segment="13" offset="244" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN" path="DIDO.INST_INT_TO_DINT" type="1" size="1" program="1" segment="16" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="IN" path="DIDO.INST_INT_TO_DINT" type="9" size="2" program="1" segment="16" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ENO" path="DIDO.INST_INT_TO_DINT" type="1" size="1" program="1" segment="16" offset="9" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="OUT" path="DIDO.INST_INT_TO_DINT" type="10" size="4" program="1" segment="16" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="CUR_TASK" path="UDP" type="6" size="2" program="2" segment="10" offset="8" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MODBUSBUF" path="UDP" type="22" size="64" program="2" segment="10" offset="12" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" arraytype="BYTE" dimrange="0..50" />
+		<var name="UDP_OUT00" path="UDP" type="1" size="1" program="2" segment="10" offset="76" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT01" path="UDP" type="1" size="1" program="2" segment="10" offset="77" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT00_SEND" path="UDP" type="1" size="1" program="2" segment="10" offset="78" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDP_OUT01_SEND" path="UDP" type="1" size="1" program="2" segment="10" offset="79" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="UDPD00" path="UDP" type="1" size="1" program="2" segment="10" offset="80" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD01" path="UDP" type="1" size="1" program="2" segment="10" offset="81" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD02" path="UDP" type="1" size="1" program="2" segment="10" offset="82" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD03" path="UDP" type="1" size="1" program="2" segment="10" offset="83" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD04" path="UDP" type="1" size="1" program="2" segment="10" offset="84" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD05" path="UDP" type="1" size="1" program="2" segment="10" offset="85" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD06" path="UDP" type="1" size="1" program="2" segment="10" offset="86" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD07" path="UDP" type="1" size="1" program="2" segment="10" offset="87" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD10" path="UDP" type="1" size="1" program="2" segment="10" offset="88" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD11" path="UDP" type="1" size="1" program="2" segment="10" offset="89" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD12" path="UDP" type="1" size="1" program="2" segment="10" offset="90" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD13" path="UDP" type="1" size="1" program="2" segment="10" offset="91" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD14" path="UDP" type="1" size="1" program="2" segment="10" offset="92" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD15" path="UDP" type="1" size="1" program="2" segment="10" offset="93" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD16" path="UDP" type="1" size="1" program="2" segment="10" offset="94" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD17" path="UDP" type="1" size="1" program="2" segment="10" offset="95" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPQ00" path="UDP" type="1" size="1" program="2" segment="10" offset="96" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPQ01" path="UDP" type="1" size="1" program="2" segment="10" offset="97" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="DIANYA" path="UDP" type="9" size="2" program="2" segment="10" offset="98" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="MBYTE1" path="UDP" type="2" size="1" program="2" segment="13" offset="132" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MBYTE2" path="UDP" type="2" size="1" program="2" segment="13" offset="133" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MCONFIRM" path="UDP" type="1" size="1" program="2" segment="13" offset="134" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MERROR" path="UDP" type="5" size="1" program="2" segment="13" offset="135" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MSOCKET" path="UDP" type="9" size="2" program="2" segment="13" offset="136" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MUDPCREATEOK" path="UDP" type="1" size="1" program="2" segment="13" offset="138" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MCLIENTSOCKET" path="UDP" type="9" size="2" program="2" segment="13" offset="140" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MPEER" path="UDP" type="7" size="4" program="2" segment="13" offset="144" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MPEERPORT" path="UDP" type="6" size="2" program="2" segment="13" offset="148" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MRXLEN" path="UDP" type="9" size="2" program="2" segment="13" offset="150" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TMPLEN" path="UDP" type="9" size="2" program="2" segment="13" offset="152" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PEER_IP" path="UDP" type="7" size="4" program="2" segment="13" offset="156" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PEER_PORT" path="UDP" type="6" size="2" program="2" segment="13" offset="160" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PC_PORT" path="UDP" type="6" size="2" program="2" segment="13" offset="162" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TMERROR1" path="UDP" type="5" size="1" program="2" segment="13" offset="164" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TMERROR2" path="UDP" type="5" size="1" program="2" segment="13" offset="165" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="RMERROR" path="UDP" type="5" size="1" program="2" segment="13" offset="166" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="RECVBUFFER" path="UDP" type="22" size="1016" program="2" segment="13" offset="168" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" arraytype="BYTE" dimrange="0..1000" />
+		<var name="PRECV" path="UDP" type="36" size="8" program="2" segment="13" offset="1184" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SENDBUFFER" path="UDP" type="22" size="1016" program="2" segment="13" offset="1192" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" arraytype="BYTE" dimrange="0..1000" />
+		<var name="PSEND" path="UDP" type="36" size="8" program="2" segment="13" offset="2208" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PLENGTH" path="UDP" type="36" size="8" program="2" segment="13" offset="2216" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="QWER" path="UDP" type="1" size="1" program="2" segment="13" offset="2224" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TIMER_COUNT" path="UDP" type="12" size="4" program="2" segment="13" offset="2228" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TIME_Q" path="UDP" type="1" size="1" program="2" segment="13" offset="2232" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TIME_CUR" path="UDP" type="12" size="4" program="2" segment="13" offset="2236" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TIME_IN" path="UDP" type="1" size="1" program="2" segment="13" offset="2240" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MLENGTH" path="UDP" type="9" size="2" program="2" segment="13" offset="2242" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MTMPVALUE" path="UDP" type="10" size="4" program="2" segment="13" offset="2244" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MCURINDEX" path="UDP" type="10" size="4" program="2" segment="13" offset="2248" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MMAXINDEX" path="UDP" type="10" size="4" program="2" segment="13" offset="2252" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MSENDTYPE" path="UDP" type="9" size="2" program="2" segment="13" offset="2256" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="IN" path="UDP.DELAY_FUNC" type="1" size="1" program="2" segment="31" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PT" path="UDP.DELAY_FUNC" type="12" size="4" program="2" segment="31" offset="20" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="Q" path="UDP.DELAY_FUNC" type="1" size="1" program="2" segment="31" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ET" path="UDP.DELAY_FUNC" type="12" size="4" program="2" segment="31" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_IN" path="UDP.INST_MEMMOVE" type="1" size="1" program="2" segment="28" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DESTADDR" path="UDP.INST_MEMMOVE" type="36" size="8" program="2" segment="28" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DESTOFFSET" path="UDP.INST_MEMMOVE" type="6" size="2" program="2" segment="28" offset="24" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SRCADDR" path="UDP.INST_MEMMOVE" type="36" size="8" program="2" segment="28" offset="28" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SRCOFFSET" path="UDP.INST_MEMMOVE" type="6" size="2" program="2" segment="28" offset="36" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="LENGTH" path="UDP.INST_MEMMOVE" type="6" size="2" program="2" segment="28" offset="38" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MODE" path="UDP.INST_MEMMOVE" type="5" size="1" program="2" segment="28" offset="40" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_OUT" path="UDP.INST_MEMMOVE" type="1" size="1" program="2" segment="28" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERROR" path="UDP.INST_MEMMOVE" type="5" size="1" program="2" segment="28" offset="9" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_IN" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="1" size="1" program="2" segment="22" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="NETNUMBER" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="5" size="1" program="2" segment="22" offset="13" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SOCKET_ID" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="9" size="2" program="2" segment="22" offset="14" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PEER_ADDR" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="7" size="4" program="2" segment="22" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PEER_PORT" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="6" size="2" program="2" segment="22" offset="20" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PTR_TXDATA" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="36" size="8" program="2" segment="22" offset="24" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="TXLENGTH" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="9" size="2" program="2" segment="22" offset="32" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_OUT" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="1" size="1" program="2" segment="22" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERROR" path="UDP.INST4_LAN_UDP_SENDTO_BIN" type="5" size="1" program="2" segment="22" offset="9" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_IN" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="1" size="1" program="2" segment="19" offset="24" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="NETNUMBER" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="5" size="1" program="2" segment="19" offset="25" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SOCKET_ID" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="9" size="2" program="2" segment="19" offset="26" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PTR_RXDATA" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="36" size="8" program="2" segment="19" offset="28" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MAXLENGTH" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="9" size="2" program="2" segment="19" offset="36" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_OUT" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="1" size="1" program="2" segment="19" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PEER_ADDR" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="7" size="4" program="2" segment="19" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PEER_PORT" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="6" size="2" program="2" segment="19" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="RXLENGTH" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="9" size="2" program="2" segment="19" offset="18" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERROR" path="UDP.INST3_LAN_UDP_RECVFROM_BIN" type="5" size="1" program="2" segment="19" offset="20" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_IN" path="UDP.INST2_LAN_UDP_CREATE_SOCKET" type="1" size="1" program="2" segment="16" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="NETNUMBER" path="UDP.INST2_LAN_UDP_CREATE_SOCKET" type="5" size="1" program="2" segment="16" offset="17" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PORT" path="UDP.INST2_LAN_UDP_CREATE_SOCKET" type="6" size="2" program="2" segment="16" offset="18" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="EN_OUT" path="UDP.INST2_LAN_UDP_CREATE_SOCKET" type="1" size="1" program="2" segment="16" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SOCKET_ID" path="UDP.INST2_LAN_UDP_CREATE_SOCKET" type="9" size="2" program="2" segment="16" offset="10" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERROR" path="UDP.INST2_LAN_UDP_CREATE_SOCKET" type="5" size="1" program="2" segment="16" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="IN_INT" path="UDP.INST_INT_TO_BYTES" type="9" size="2" program="2" segment="25" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="OUT_BYTE1" path="UDP.INST_INT_TO_BYTES" type="2" size="1" program="2" segment="25" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="OUT_BYTE2" path="UDP.INST_INT_TO_BYTES" type="2" size="1" program="2" segment="25" offset="9" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="HIGH_INT" path="UDP.INST_INT_TO_BYTES" type="9" size="2" program="2" segment="25" offset="16" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="LOW_INT" path="UDP.INST_INT_TO_BYTES" type="9" size="2" program="2" segment="25" offset="18" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="CUR_TASK" path="MODBUS" type="6" size="2" program="3" segment="10" offset="8" bit="0" scope="8" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MODBUSBUF" path="MODBUS" type="22" size="64" program="3" segment="10" offset="12" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" arraytype="BYTE" dimrange="0..50" />
+		<var name="UDPD00" path="MODBUS" type="1" size="1" program="3" segment="10" offset="80" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD01" path="MODBUS" type="1" size="1" program="3" segment="10" offset="81" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD02" path="MODBUS" type="1" size="1" program="3" segment="10" offset="82" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD03" path="MODBUS" type="1" size="1" program="3" segment="10" offset="83" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD04" path="MODBUS" type="1" size="1" program="3" segment="10" offset="84" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD05" path="MODBUS" type="1" size="1" program="3" segment="10" offset="85" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD06" path="MODBUS" type="1" size="1" program="3" segment="10" offset="86" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD07" path="MODBUS" type="1" size="1" program="3" segment="10" offset="87" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD10" path="MODBUS" type="1" size="1" program="3" segment="10" offset="88" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD11" path="MODBUS" type="1" size="1" program="3" segment="10" offset="89" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD12" path="MODBUS" type="1" size="1" program="3" segment="10" offset="90" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD13" path="MODBUS" type="1" size="1" program="3" segment="10" offset="91" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD14" path="MODBUS" type="1" size="1" program="3" segment="10" offset="92" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD15" path="MODBUS" type="1" size="1" program="3" segment="10" offset="93" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD16" path="MODBUS" type="1" size="1" program="3" segment="10" offset="94" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPD17" path="MODBUS" type="1" size="1" program="3" segment="10" offset="95" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPQ00" path="MODBUS" type="1" size="1" program="3" segment="10" offset="96" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="UDPQ01" path="MODBUS" type="1" size="1" program="3" segment="10" offset="97" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="DIANYA" path="MODBUS" type="9" size="2" program="3" segment="10" offset="98" bit="0" scope="8" qualifier="1" ref="0" procimg="noPI" />
+		<var name="FIRST" path="MODBUS" type="1" size="1" program="3" segment="13" offset="104" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MERROR" path="MODBUS" type="5" size="1" program="3" segment="13" offset="105" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MCTRL" path="MODBUS" type="1" size="1" program="3" segment="13" offset="106" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MDONE" path="MODBUS" type="1" size="1" program="3" segment="13" offset="107" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DATA_PTR" path="MODBUS" type="36" size="8" program="3" segment="13" offset="108" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DI0" path="MODBUS" type="2" size="1" program="3" segment="1" offset="8" bit="0" scope="1" qualifier="0" ref="0" procimg="%I0.0" />
+		<var name="ADDR" path="MODBUS" type="4" size="4" program="3" segment="13" offset="116" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="RW" path="MODBUS" type="5" size="1" program="3" segment="13" offset="120" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MCOUNT" path="MODBUS" type="9" size="2" program="3" segment="13" offset="122" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERR" path="MODBUS" type="5" size="1" program="3" segment="13" offset="124" bit="0" scope="4" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ENABLE" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="1" size="1" program="3" segment="19" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PORT" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="5" size="1" program="3" segment="19" offset="13" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="SLAVEID" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="5" size="1" program="3" segment="19" offset="14" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="READWRITE" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="5" size="1" program="3" segment="19" offset="15" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ADDRESS" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="4" size="4" program="3" segment="19" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="COUNT" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="9" size="2" program="3" segment="19" offset="20" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DATA_PTR" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="36" size="8" program="3" segment="19" offset="24" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DONE" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="1" size="1" program="3" segment="19" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERROR" path="MODBUS.INST1_MODBUS_MASTER_CTRL" type="5" size="1" program="3" segment="19" offset="9" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ENABLE" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="1" size="1" program="3" segment="16" offset="12" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="MODE" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="1" size="1" program="3" segment="16" offset="13" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PORT" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="5" size="1" program="3" segment="16" offset="14" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="BAUD" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="7" size="4" program="3" segment="16" offset="16" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="DATABITS" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="5" size="1" program="3" segment="16" offset="20" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="PARITY" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="5" size="1" program="3" segment="16" offset="21" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="STOPBITS" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="5" size="1" program="3" segment="16" offset="22" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+		<var name="ERROR" path="MODBUS.INST0_MODBUS_MASTER_INIT" type="5" size="1" program="3" segment="16" offset="8" bit="0" scope="2" qualifier="0" ref="0" procimg="noPI" />
+	</VarList>
+</Project>

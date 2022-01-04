@@ -1,0 +1,21 @@
+
+正在构建资源 E:\23ship\chenlong\PLC\$ENV$\Resource\Resource.MAK。
+正在执行预生成步骤:
+
+正在创建依从列表(dependency list): 
+E:\23ship\chenlong\PLC\GLOBAL_VAR.POE
+
+正在创建依从列表(dependency list): 
+E:\23ship\chenlong\PLC\DIDO.POE
+E:\23ship\chenlong\PLC\UDP.POE
+E:\23ship\chenlong\PLC\MODBUS.POE
+
+正在编译 ...
+
+连接 ...
+0 错误, 0 警告 - E:\23SHIP\CHENLONG\PLC\$GEN$\Resource\Resource.PCD.
+
+VARTAB32: VarTab版本: 1
+正在执行后生成步骤:
+总数:
+0 错误(s) 0 警告(s)

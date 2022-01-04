@@ -1,0 +1,41 @@
+0/8	VarTab	--	872
+0/9	SegHardwareConfig	--	20
+0/10	Datasegment	0/11	100	GLOBAL_VAR
+0/11	Codesegment	0/12	7
+0/12	Initialsegment	0/11	108
+2/13	Datasegment	2/14	2260	UDP
+2/14	Codesegment	2/15	2013
+2/15	Initialsegment	2/14	2144
+2/16	Datasegment	2/17	24	UDP.INST2_LAN_UDP_CREATE_SOCKET
+2/17	Codesegment	2/18	7
+2/18	Initialsegment	2/17	32
+2/19	Datasegment	2/20	44	UDP.INST3_LAN_UDP_RECVFROM_BIN
+2/20	Codesegment	2/21	7
+2/21	Initialsegment	2/20	52
+2/22	Datasegment	2/23	40	UDP.INST4_LAN_UDP_SENDTO_BIN
+2/23	Codesegment	2/24	7
+2/24	Initialsegment	2/23	48
+2/25	Datasegment	2/26	20	UDP.INST_INT_TO_BYTES
+2/26	Codesegment	2/27	48
+2/27	Initialsegment	2/26	28
+2/28	Datasegment	2/29	44	UDP.INST_MEMMOVE
+2/29	Codesegment	2/30	7
+2/30	Initialsegment	2/29	52
+2/31	Datasegment	2/32	36	UDP.DELAY_FUNC
+2/32	Codesegment	2/33	7
+2/33	Initialsegment	2/32	44
+1/13	Datasegment	1/14	248	DIDO
+1/14	Codesegment	1/15	182
+1/15	Initialsegment	1/14	24
+1/16	Datasegment	1/17	16	DIDO.INST_INT_TO_DINT
+1/17	Codesegment	1/18	7
+1/18	Initialsegment	1/17	24
+3/13	Datasegment	3/14	128	MODBUS
+3/14	Codesegment	3/15	303
+3/15	Initialsegment	3/14	40
+3/16	Datasegment	3/17	24	MODBUS.INST0_MODBUS_MASTER_INIT
+3/17	Codesegment	3/18	7
+3/18	Initialsegment	3/17	32
+3/19	Datasegment	3/20	32	MODBUS.INST1_MODBUS_MASTER_CTRL
+3/20	Codesegment	3/21	7
+3/21	Initialsegment	3/20	40
